@@ -1,0 +1,9 @@
+export '../../core/network/network_checker.dart';
+export '../../core/api/api_interceptor.dart';
+export '../../core/api/api_helper.dart';
+export 'package:assignment/features/meal/data/di/meal_di.dart';
+export 'package:cloud_firestore/cloud_firestore.dart';
+export 'package:internet_connection_checker/internet_connection_checker.dart';
+export 'package:get_it/get_it.dart';
+export 'package:dio/dio.dart';
+export 'package:shared_preferences/shared_preferences.dart';
